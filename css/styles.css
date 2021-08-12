@@ -1,0 +1,58 @@
+body {
+    background-color: #261C2C;
+    color: #6E85B2;
+}
+
+h1 {
+    color: #5C527F;
+}
+
+h3 {
+    color: #5C527F;
+}
+
+a {
+    color: #368B85;
+}
+
+a:link {
+
+}
+
+a:visited {
+    color: #368B85;
+}
+
+a:focus {
+
+}
+
+a:hover {
+    color: #261C2C;
+    background: #368B85;
+}
+
+a:active {
+
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: #6E85B2;
+    background-color: #261C2C;
+    width: 5%;
+}
+
+.date {
+    text-align: right;
+}
+#464660
+#368B85
+#B4B897
+#F1E9E5
+
+#261C2C
+#3E2C41
+#5C527F
+#6E85B2
